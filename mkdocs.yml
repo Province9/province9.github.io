@@ -1,0 +1,84 @@
+site_name: Phi Mu Alpha - Province 9
+site_author: Mason Egger
+repo_url: https://github.com/province9/website
+repo_name: province9/website
+edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  font:
+    text: PT Serif
+  logo: assets/images/favicon.png
+  custom_dir: overrides
+  locale: en
+  logo: assets/images/p9.png
+  favicon: assets/images/p9.png
+  features:
+    - announce.dismiss
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - toc.integrate
+  palette:
+    - scheme: p9_light
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: p9_dark
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+copyright: Copyright &copy; 2015-2023 - Province 9
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Chapters: chapters.md
+  - Blog:
+    - blog/index.md
+
+plugins:
+  - search
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+      post_url_format: "{slug}"
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/twitter
+      link: #
+      name: Twitter
+    - icon: fontawesome/brands/youtube
+      link: #
+      name: YouTube
+    - icon: fontawesome/brands/instagram
+      link: #
+      name: Instagram
+    - icon: fontawesome/brands/github
+      link: https://github.com/province9
+      name: GitHub
+
+#extra:
+#  analytics:
+#    provider: google
+#    property: G-885F33V7K6
