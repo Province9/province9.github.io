@@ -1,7 +1,7 @@
 site_name: Phi Mu Alpha - Province 9
 site_author: Mason Egger
-repo_url: https://github.com/province9/website
-repo_name: province9/website
+repo_url: https://github.com/province9/province9.github.io
+repo_name: province9/province9.github.io
 edit_uri: edit/main/docs/
 extra_css:
   - stylesheets/extra.css
