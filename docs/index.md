@@ -13,15 +13,17 @@ Welcome to the home page of Province 9 of the Phi Mu Alpha Sinfonia Fraternity.
 
     ---
 
-    Sinfonia needs your help. [Donate today](https://1898forward.org/) to ensure the future of Sinfonia.
+    Sinfonia needs your support. 1898 Forward is a national program committed to providing for future generations of Sinfonia. 
+
+    [:octicons-arrow-right-24: Donate to 1898 Forward](https://1898forward.org/)
 
 -   :fontawesome-solid-ticket:{ .lg .middle} __Attend__
 
     ---
 
-    Buy your tickets for Province Workshop  
-    January 14 - 15, 2024   
-    [Purchase Tickets](#){: .md-button .p9-button--primary}
+    Province Workshop will be held January 14 - 15, 2024 at Texas A&M University-Corpus Christi
+    
+    [:octicons-arrow-right-24: Purchase Your Ticket Today](https://www.eventbrite.com/e/phi-mu-alpha-sinfonia-province-9-workshop-who-we-are-tickets-738134499157)
 
 -   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
 
@@ -29,5 +31,6 @@ Welcome to the home page of Province 9 of the Phi Mu Alpha Sinfonia Fraternity.
 
     Get the latest news about the Fraternity and Province.
  
+    [:octicons-arrow-right-24: Sign Up for the Mailing List](https://forms.gle/vo5VY5LWzWFny7if9)
 
 </div>

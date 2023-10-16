@@ -1,3 +1,4 @@
+site_url: https://province9.org
 site_name: Phi Mu Alpha - Province 9
 site_author: Mason Egger
 repo_url: https://github.com/province9/province9.github.io
@@ -24,13 +25,6 @@ theme:
     - toc.integrate
   palette:
     - scheme: p9_light
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - scheme: p9_dark
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
 copyright: Copyright &copy; 2015-2023 - Province 9
 
 markdown_extensions:
@@ -40,6 +34,7 @@ markdown_extensions:
   - md_in_html
   - def_list
   - footnotes
+  - pymdownx.superfences
   - toc:
       permalink: true
       toc_depth: 3
@@ -52,6 +47,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Chapters: chapters.md
+  - Alumni: alumni.md
   - Blog:
     - blog/index.md
 
@@ -61,19 +57,36 @@ plugins:
       blog_dir: blog
       blog_toc: true
       post_url_format: "{slug}"
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags 
+
 
 extra:
+  analytics:
+    provider: google
+    property: G-VBH764B9Y0
   generator: false
   social:
-    - icon: fontawesome/brands/twitter
-      link: #
-      name: Twitter
     - icon: fontawesome/brands/youtube
-      link: #
+      link: https://www.youtube.com/@province9sinfonia605
       name: YouTube
     - icon: fontawesome/brands/instagram
-      link: #
+      link: https://instagram.com/province9sinfonia
       name: Instagram
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/15740270162
+      name: Facebook
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/GmPHETj7EF
+      name: Discord
+    - icon: fontawesome/solid/square-rss
+      link: ./feed_rss_updated.xml
+      name: RSS
     - icon: fontawesome/brands/github
       link: https://github.com/province9
       name: GitHub

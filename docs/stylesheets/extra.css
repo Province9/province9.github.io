@@ -1,34 +1,19 @@
 [data-md-color-scheme="p9_light"] {
     --md-primary-fg-color: #FFFFFF;
-    --md-default-fg-color: #FFFFFF;
+    --md-default-fg-color: #000000;
     --md-primary-fg-color--light: #C41237;
     --md-default-fg-color--light: #C41237;
     --md-primary-fg-color--dark: #A87A00;
     --md-default-fg-color--dark: #A87A00;
-    --md-primary-fg-color--transparent: rgba(0, 0, 0, 0.75);
     --md-primary-bg-color: #000000;
-    --md-primary-bg-color--transparent: rgba(0, 0, 0, 0.50);
-    --md-default-bg-color: #000000;
+    --md-default-bg-color: #FFFFFF;
     --md-accent-fg-color: #C41237;
-    --md-accent-fg-color--transparent: rgba(168, 122, 0, 0.75);
 
     --md-accent-bg-color: #A87A00;
 }
 
-
-[data-md-color-scheme="p9_dark"] {
-    --md-primary-fg-color: #000000;
-    --md-default-fg-color: #000000;
-    --md-primary-fg-color--light: #A87A00;
-    --md-default-fg-color--light: #A87A00;
-    --md-primary-fg-color--dark: #C41237;
-    --md-default-fg-color--dark: #C41237;
-    --md-primary-fg-color--transparent: rgba(168, 122, 0, 0.75);
-    --md-primary-bg-color: #FFFFFF;
-    --md-default-bg-color: #FFFFFF;
-    --md-accent-fg-color: #A87A00;
-    --md-accent-fg-color--transparent: rgba(196, 18, 55, 0.50);
-    --md-accent-bg-color: #C41237;
+.md-typeset a {
+    color: var(--md-accent-bg-color);
 }
 
 .md-container {
@@ -78,15 +63,11 @@
     justify-content: center;
 }
 
-.p9-hero__content {
-    padding-bottom: 2rem;
-    margin: 0 auto;
-}
 
 .p9-hero__image {
     align-self: center;
     order: 0;
-    max-height: 30rem;
+    max-height: 25rem;
     width: 50%;
 }
 
