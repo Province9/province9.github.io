@@ -2,6 +2,18 @@
 
 Welcome to the Alumni page! On this page we want to celebrate all things Alumni in Phi Mu Alpha. 
 
+## Alumni Programs
+
+Alumni Brothers make up for the vast majority of our Fraternity. The true 
+power in numbers we have as a Fraternity comes from the Brothers who are left 
+to recall their college days. With that said, the Fraternity has recently 
+launched an Alumni Program called **1898Forward** which aims to assist the 
+Fraternity financially. The push is to get every Alumni Brother to donate 
+$18.98 to help our Fraternity sustain financially. For more information, visit
+the [1898 website](https://1898forward.org). 
+
+[Donate Today :fontawesome-regular-handshake:](https://1898forward.org){ .p9-button .p9-button--primary }
+
 ## Alumni Associations
 
 Alumni Associations are meant to be a continuation of your journey in Phi Mu 
@@ -29,15 +41,5 @@ Alumni to gather!
 If you are in the San Antonio or Corpus Christi area and would be interested in helping build or rebuild the Alumni Association, please reach out to [Chris Silva](mailto:chris@province9.rog) at _chris **AT** province9 **DOT** org_. 
 
 
-## Alumni Programs
 
-Alumni Brothers make up for the vast majority of our Fraternity. The true 
-power in numbers we have as a Fraternity comes from the Brothers who are left 
-to recall their college days. With that said, the Fraternity has recently 
-launched an Alumni Program called **1898Forward** which aims to assist the 
-Fraternity financially. The push is to get every Alumni Brother to donate 
-$18.98 to help our Fraternity sustain financially. For more information, visit
-the [1898 website](https://1898forward.org). 
-
-[Donate Today :fontawesome-regular-handshake:](https://1898forward.org){ .p9-button .p9-button--primary }
 
