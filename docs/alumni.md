@@ -26,19 +26,19 @@ the business needs of the Alumni Association. 
 
 ### San Antonio Area Alumni Association
 The San Antonio Alumni Association is currently the only active Alumni 
-ssociation within Province 9. While the association hasn’t gathered 
+association within Province 9. While the association hasn’t gathered 
 in quite some time, it is still active. The last meeting of the Alumni 
 Association was in 2017 and it would be awesome to get the San 
 Antonio Area Alumni Association back up and running! 
 
-### Corpus Christi Area Aluni Association (In Progress) 
+### Corpus Christi Area Alumni Association (In Progress) 
 There is an Alumni Association interest group forming in Corpus Christi. 
 They are working to gather enough Brothers for a charter as an official Alumni 
 Association in the area. It would be awesome to have an Alumni Association in 
 the southern part of the Province as we’d then have two central hubs for 
 Alumni to gather!
 
-If you are in the San Antonio or Corpus Christi area and would be interested in helping build or rebuild the Alumni Association, please reach out to [Chris Silva](mailto:chris@province9.rog) at _chris **AT** province9 **DOT** org_. 
+If you are in the San Antonio or Corpus Christi area and would be interested in helping build or rebuild the Alumni Association, please reach out to [Chris Silva](mailto:chris@province9.org) at _chris **AT** province9 **DOT** org_. 
 
 
 
