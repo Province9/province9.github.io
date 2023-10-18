@@ -121,9 +121,11 @@ There are currently two chapters inactive within Province 9.
 ### _Kappa Theta_: The University of Texas-Pan American
 
 **Date Founded:** April 11, 1975
+
 **Date Closed:** 1978
 
 ### _Lambda Alpha_: Trinity University
 
 **Date Founded:** April 2, 1976
+
 **Date Closed:** 1988
