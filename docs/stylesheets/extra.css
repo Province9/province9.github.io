@@ -8,8 +8,13 @@
     --md-primary-bg-color: #000000;
     --md-default-bg-color: #FFFFFF;
     --md-accent-fg-color: #C41237;
-
+    --md-typeset-a-color: #A87A00;
     --md-accent-bg-color: #A87A00;
+}
+
+
+.md-meta {
+    color: unset;
 }
 
 .md-typeset a {
