@@ -79,24 +79,29 @@ music to the younger generation and helping any in need of guidance.
 
 ## _Nu Eta_: The University of Texas at San Antonio
 
-**Date Founded:** 
+**Date Founded:** October 31, 1982
 
-**Number of Active Brothers:** 
+**Number of Active Brothers:** 12
 
-**Current Pledge Class:** 
+**Current Pledge Class:** Alpha Chi
 
-**About:** 
+**About:** For over forty years, the Nu Eta chapter of Phi Mu Alpha at the 
+University of Texas at San Antonio has cultivated an environment rich in 
+culture, passion, and friendship. Performing Mills Music Missions, university 
+recitals, and intimate music building gigs, our brothers continue to embody 
+the musicianly man. Hoping to continue the chapters growth we will be rushing 
+four members in our latest class. We hope to have another large spring rush 
+class next semester.
 
 **Social Media Links**
 
-- Link 1
-- Link 2
-- Link 3
+- [Instagram](https://www.instagram.com/pma_nueta/)
+- [Facebook Page](https://www.facebook.com/pmanueta )
+- [YouTube](https://www.youtube.com/@phimualphanueta )
 
+## _Pi Chi_: Texas A&M University - Kingsville
 
-## _Pi Chi_: Texas A\&M University - Kingsville
-
-**Date Founded:** May 7, 1967/ April 18th, 2004
+**Date Founded:** May 7, 1967/April 18th, 2004
 
 **Number of Active Brothers: 10** 
 
@@ -114,20 +119,25 @@ music to the younger generation and helping any in need of guidance.
 
 ## _Rho Epsilon_: Texas A\&M University - Corpus Christi
 
-**Date Founded:** 
+**Date Founded:** May 10, 2007
 
-**Number of Active Brothers:** 
+**Number of Active Brothers:** 8
 
-**Current Pledge Class:** 
+**Current Pledge Class:** Omega
 
-**About:** 
+**About:** Texas A&M University Corpus Christi, the Island University, is home 
+to the Rho Epsilon chapter. At 16yrs old we are the youngest of the chapters 
+in Province 9. We serve the community by participating in music making with 
+local churches, schools, and shelters. We are enthusiastic about the future 
+and future traditions that are being cultivated here. Please don't hesitate to 
+contact us through our social media found below.
 
 **Social Media Links**
 
-- Link 1
-- Link 2
-- Link 3
+- [Instagram](https://instagram.com/pmas.rhoepsilon)
+- [Facebook Page](https://www.facebook.com/pma.rhoepsilon)
 
+## Inactive Chapters
 
 There are currently two chapters inactive within Province 9.
 

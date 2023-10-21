@@ -196,7 +196,17 @@ Province 9.
 Go Runners!
 
 ### Assistant Collegiate Province Representative (South) - Austin Catache
+![Richard Daul Headshot](assets/photos/austin.jpg){: style="height:200px;width:200px" align=left}
 
+Hey brothers! My name is Austin Xavier Catache and I am the newly instated ACPR South. I am currently in my 4th year at Texas A&M University Kingsville pursuing a Music Education Degree. I am currently 5th horn in the TAMUK Wind Symphony and work as a staff member for the Javelina Marching Band. I crossed at the Pi Chi Chapter at Texas A&M University, Spring 22' Beta Beta rush class. I have worked in multiple positions in the EC for the Pi Chi Chapter. I have been ARO, and I am currently the FEO and Historian for this school year. 
+
+I first heard about Phi Mu Alpha through my roommates my sophomore year. I had no interest in joining but as time went on, I gravitated more to it as they told me what they did and their ideals and beliefs. I felt like I joined a fraternity that truly related to me. Never had I met a group of men that I felt so connected with and related so much with. 
+
+As the new ACPR South, my goal is to make sure that the southern chapters are close with one another and we truly feel together as one unit. Not only that, but to grow the bond that we have as an entire Province. We aren't just a brotherhood in our chapter, but nationally as well. 
+
+In my spare time, I am an avid music listener as well as a huge outdoorsman. Fishing and hiking are some of my favourite hobbies. I'm also huge into video games and as well as practising my French Horn.
+
+Go Hogs! 
 
 ## History
 
