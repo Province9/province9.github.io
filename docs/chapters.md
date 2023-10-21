@@ -21,7 +21,7 @@ There are currently six active chapters within Province 9, with the northmost ch
 
 **About:** For nearly a century, Sinfonians at UT in nearly every field of study and professional endeavor have transformed music in America. They continue to operate in a philanthropic capacity performing Mills Music Missions, volunteering at multiple UIL events, and striving to better the music community at UT Austin.
 
-**Contact Information:** utpmasinfonia\@gmail.com
+**Contact Information:** [utpmasinfonia@gmail.com](mailto:utpmasinfonia@gmail.com)
 
 **Social Media Links:**
 
@@ -84,19 +84,20 @@ There are currently six active chapters within Province 9, with the northmost ch
 
 ## _Pi Chi_: Texas A\&M University - Kingsville
 
-**Date Founded:** 
+**Date Founded:** May 7, 1967/ April 18th, 2004
 
-**Number of Active Brothers:** 
+**Number of Active Brothers: 10** 
 
-**Current Pledge Class:** 
+**Current Pledge Class: 0 (we do not pledge in the fall)**
 
-**About:** 
+**About:** Serving as the premier example of music making and manhood in South Texas, Pi Chi is Province 9’s southernmost chapter. Since 1967 and our re-establishment in 2004, Pi Chi has served our local community by assisting in many music related events much as setting up and tearing down for concerts, assisting in student recitals, and much more around our TAMUK campus.  
 
-**Social Media Links**
+**Contact Information:** [sinfonia.pichi@gmail.com](mailto:sinfonia.pichi@gmail.com)
 
-- Link 1
-- Link 2
-- Link 3
+**Social Media Links:**
+
+- [Instagram](https://instagram.com/phimualpha.pichi/)
+- [Facebook Page](https://facebook.com/PiChiSinfonia)
 
 
 ## _Rho Epsilon_: Texas A\&M University - Corpus Christi
