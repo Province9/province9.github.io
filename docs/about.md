@@ -1,9 +1,28 @@
 # About
 
-Province 9 is a regional division of the Phi Mu Alpha Sinfonia Fraternity, located
+Province 9 is a regional division of the [Phi Mu Alpha Sinfonia Fraternity](https://sinfonia.org), located
 in Central and South Texas. 
 
-## Leadership
+## Phi Mu Alpha Sinfonia
+Phi Mu Alpha Sinfonia is the world’s oldest and largest secret national 
+fraternal society in music. Sinfonia was born on October 6, 1898, at the New 
+England Conservatory in Boston, when a group of thirteen young men under the 
+guidance of Ossian Everett Mills met “to consider the social life of the young 
+men students of that institution [and] to devise ways and means by which it 
+might be improved.” Sinfonia became a national fraternity on October 6, 1900, 
+with the admission of a group of men at the Broad Street Conservatory in 
+Philadelphia. For over a century, Sinfonians in nearly every field of study 
+and professional endeavor have transformed music in America. The opportunity 
+of becoming a Sinfonian is offered to as many men as possible who, through 
+a love for music, can assist in the fulfillment of the Fraternity’s Object and 
+ideals either by adopting music as a profession or by working to advance the 
+cause of music in America.
+
+## Our Mission
+
+> The Object of this Fraternity shall be for the development of the best and truest fraternal spirit; the mutual welfare and brotherhood of musical students; the advancement of music in America and a loyalty to the Alma Mater.
+
+## Province 9 Leadership
 Leadership at the Province level is a mixture of appointed alumni and elective
 active brothers. The Province Governor and Deputy Province Governor are appointed
 by the National President. The Province Alumni Coordinator is then appointed by 
