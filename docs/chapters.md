@@ -33,36 +33,48 @@ There are currently six active chapters within Province 9, with the northmost ch
 
 ## _Gamma Phi:_ Texas State University (Southwest Texas State University
 
-**Date Founded:** 
+**Date Founded:** May 20, 1947
 
-**Number of Active Brothers:** 
+**Number of Active Brothers:** 28
 
-**Current Pledge Class:** 
+**Current Pledge Class:** Zeta Lambda (Fall '23)
 
-**About:** 
+**About:** With a little over 75 years of rich history and culture, the Gamma 
+Phi Chapter of Phi Mu Alpha is a hub where fraternity spirit flourishes and 
+music is paramount. Our service projects, community outreach initiatives, and 
+social events showcase a unique brotherhood. We aim to forge enduring bonds 
+and make a significant contribution to America's music scene. Our chapter 
+boasts alumni members who are Grammy Award winners, educators, servicemen, 
+lawyers, and touring artists, among other professions.
 
 **Social Media Links**
 
-- Link 1
-- Link 2
-- Link 3
+- [Instagram](https://www.instagram.com/phimualphatxst/)
+- [Facebook Page](https://www.facebook.com/PhiMuAlphaGammaPhiChapter/)
+- [YouTube](https://www.youtube.com/@phimualphagammaphichapter2009)
 
 
 ## _Kappa Chi_: Del Mar College
 
-**Date Founded:** 
+**Date Founded:** March 4, 1962
 
-**Number of Active Brothers:** 
+**Number of Active Brothers:** 8
 
-**Current Pledge Class:** 
+**Current Pledge Class:** Delta Lambda
 
-**About:** 
+**About:**  Del Mar College is the home to Kappa Chi which is the only active 
+chapter at a two-year college in the country. Kappa Chi has stood the test of 
+time as a chapter recruiting new Brothers with each passing year despite lower 
+enrollment than at a four-year university. 
+
+Our main goal this semester is to be more active with our high school events 
+and our local events. We as Sinfonians are dedicated to spreading as much 
+music to the younger generation and helping any in need of guidance.
+
 
 **Social Media Links**
 
-- Link 1
-- Link 2
-- Link 3
+- [Instagram](https://www.instagram.com/pma_kappachi/)
 
 
 ## _Nu Eta_: The University of Texas at San Antonio
