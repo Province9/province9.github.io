@@ -1,5 +1,5 @@
 ---
-title: Province 9 - ΦMA
+title: Home
 template: home.html
 ---
 
