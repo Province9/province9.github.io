@@ -1,4 +1,4 @@
-# Contact Information
+## Contact Information
 
 Have a question? Want to re-establish contact? Email us!
 
@@ -11,3 +11,14 @@ Have a question? Want to re-establish contact? Email us!
 | Collegiate Province Representative | [cpr@province9.org](mailto:crp@province9.org)
 | Assistant Collegiate Province Representative - *North* | [acpr-north@province9.org](mailto:acpr-north@province9.org)
 | Assistant Collegiate Province Representative - *South* | [acpr-south@province9.org](mailto:acpr-south@province9.org)
+
+## Keep Up to Date
+
+There are various ways you can keep up with the events of Province 9. 
+You can:
+
+* Join the Province 9 [mailing list](https://forms.gle/vo5VY5LWzWFny7if9)
+* Join the Province 9 [Facebook group](https://www.facebook.com/groups/15740270162)
+* Follow us on [Instagram](https://instagram.com/province9sinfonia)
+* Join our [Discord Server](https://discord.gg/GmPHETj7EF)
+* Follow our [RSS Feed](../../feed_rss_updated.xml)
