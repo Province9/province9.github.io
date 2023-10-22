@@ -50,6 +50,8 @@ nav:
   - Alumni: alumni.md
   - Blog:
     - blog/index.md
+  - Contact Us:
+    - contact.md
 
 plugins:
   - search
