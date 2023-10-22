@@ -10,4 +10,4 @@ Have a question? Want to re-establish contact? Email us!
 | Province Alumni Cordinator | [chris@province9.org](mailto:chris@province9.org)
 | Collegiate Province Representative | [cpr@province9.org](mailto:crp@province9.org)
 | Assistant Collegiate Province Representative - *North* | [acpr-north@province9.org](mailto:acpr-north@province9.org)
-| Assistant Collegiate Province Representative - *South* | [acpr-south@province9.org](mailto:acrp-south@province9.org)
+| Assistant Collegiate Province Representative - *South* | [acpr-south@province9.org](mailto:acpr-south@province9.org)
