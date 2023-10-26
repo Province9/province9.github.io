@@ -38,7 +38,7 @@ Association in the area. It would be awesome to have an Alumni Association in
 the southern part of the Province as we’d then have two central hubs for 
 Alumni to gather!
 
-If you are in the San Antonio or Corpus Christi area and would be interested in helping build or rebuild the Alumni Association, please reach out to [Chris Silva](mailto:chris@province9.org) at _chris **AT** province9 **DOT** org_. 
+If you are in the San Antonio or Corpus Christi area and would be interested in helping build or rebuild the Alumni Association, please reach out to [Chris Silva](mailto:chris@province9.org) at [chris@province9.org](mailto:chris@province9.org). 
 
 
 
