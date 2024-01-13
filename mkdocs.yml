@@ -65,6 +65,9 @@ plugins:
       categories:
         - categories
         - tags 
+  - redirects:
+      redirect_maps:
+        'links.md': 'https://linktr.ee/province9'
 
 
 extra:
