@@ -190,48 +190,34 @@ _On And Ever Upwards,_
 
 _Victor M. Briseno - Collegiate Province Rep. of Province 9_
 
-### Assistant Collegiate Province Representative (North) - Richard Daul
-![Richard Daul Headshot](assets/photos/richard.jpg){: style="height:200px;width:200px" align=left}
+### Assistant Collegiate Province Representative (North) - Jamarian Williams
 
-Richard Daul is a senior at the University of Texas at San Antonio, pursuing a 
-major in Music Marketing alongside minors in Business and Jazz. As the Head 
-Drum Major for the Spirit of San Antonio marching band,
 
-Richard's musical talents extend beyond conducting, as he is primarily 
-recognized for his skillful trumpet playing. In recent years, he has directed 
-his passion toward jazz piano, delving into its complexities and nuances. 
-Richard's leadership shines as he holds the distinguished position of 
-President within the Nu Eta chapter of Phi Mu Alpha Sinfonia. Additionally, he 
-takes on the role of ACPR-North for Provence 9 Further showcasing his 
-dedication to music and community engagement.
-
-Beyond his musical endeavors, Richard is an ardent advocate for the 
-environment and public transportation. His love for climbing, commitment to 
-maintaining a healthy diet, and overall enthusiasm for fitness underscore his 
-well-rounded and active lifestyle. With great enthusiasm, he eagerly embraces 
-his upcoming role as ACPR-North for the esteemed Phi Mu Alpha chapter of 
-Province 9. 
-
-Go Runners!
-
-### Assistant Collegiate Province Representative (South) - Austin Catache
-![Richard Daul Headshot](assets/photos/austin.jpg){: style="height:200px;width:200px" align=left}
-
-Hey brothers! My name is Austin Xavier Catache and I am the newly instated ACPR South. I am currently in my 4th year at Texas A&M University Kingsville pursuing a Music Education Degree. I am currently 5th horn in the TAMUK Wind Symphony and work as a staff member for the Javelina Marching Band. I crossed at the Pi Chi Chapter at Texas A&M University, Spring 22' Beta Beta rush class. I have worked in multiple positions in the EC for the Pi Chi Chapter. I have been ARO, and I am currently the FEO and Historian for this school year. 
-
-I first heard about Phi Mu Alpha through my roommates my sophomore year. I had no interest in joining but as time went on, I gravitated more to it as they told me what they did and their ideals and beliefs. I felt like I joined a fraternity that truly related to me. Never had I met a group of men that I felt so connected with and related so much with. 
-
-As the new ACPR South, my goal is to make sure that the southern chapters are close with one another and we truly feel together as one unit. Not only that, but to grow the bond that we have as an entire Province. We aren't just a brotherhood in our chapter, but nationally as well. 
-
-In my spare time, I am an avid music listener as well as a huge outdoorsman. Fishing and hiking are some of my favourite hobbies. I'm also huge into video games and as well as practising my French Horn.
-
-Go Hogs! 
+### Assistant Collegiate Province Representative (South) - David Villarreal
 
 ## History
 
 ## Past Leadership
 
 ### Past Governors
+
+#### Matthew Trevino
+![Matthew Trevino Headshot](assets/photos/matthew.jpg){: style="height:300px;width:300px" align=left}
+
+Matthew Trevino is in his 14th year teaching elementary music, and his 9th 
+year teaching the amazing students at Roan Forest Elementary. Trevino was a 
+semifinalist for the 2018 and 2022 Music Educator GRAMMY and is currently on 
+the GRAMMY race as a quarterfinalist for the 5th time. Since establishing his 
+percussion group Sonido in 2015 the group Sonido was invited to perform at the 
+opening ceremonies of the 2017 AOSA Conference in Fort Worth, Sonido was an 
+“invited ensemble” for the 2020 TMEA Convention where they tore the roof off 
+of the house! They have since performed at the Tobin Center, performed for 
+STOMP! Performed for the Spurs, the San Antonio HS All Star Game at the 
+Alamodome, and for countless other performances.
+
+_#goroanforestgo_
+
+<br clear="all">
 
 #### Robert Whalin: September 23, 1935 - May 9, 2023
 ![Robert Whalin Headshot](assets/photos/whalin.jpg){: style="height:400px;width:300px" align=left}
@@ -257,27 +243,8 @@ proud grandfather who would build an entire Christmas village in the den every
 year. He was loved and will be missed by so many.
 
 
-
-#### Matthew Trevino
-![Matthew Trevino Headshot](assets/photos/matthew.jpg){: style="height:300px;width:300px" align=left}
-
-Matthew Trevino is in his 14th year teaching elementary music, and his 9th 
-year teaching the amazing students at Roan Forest Elementary. Trevino was a 
-semifinalist for the 2018 and 2022 Music Educator GRAMMY and is currently on 
-the GRAMMY race as a quarterfinalist for the 5th time. Since establishing his 
-percussion group Sonido in 2015 the group Sonido was invited to perform at the 
-opening ceremonies of the 2017 AOSA Conference in Fort Worth, Sonido was an 
-“invited ensemble” for the 2020 TMEA Convention where they tore the roof off 
-of the house! They have since performed at the Tobin Center, performed for 
-STOMP! Performed for the Spurs, the San Antonio HS All Star Game at the 
-Alamodome, and for countless other performances.
-
-_#goroanforestgo_
-
-
-#### David Irving
+#### David Irving: October 21, 1940 - April 3, 2024
 ![David Irving Headshot](assets/photos/david.jpg){: style="height:400px;width:300px" align=left}
-
 
 A native of Corpus Christi, earned his bachelor's and master's degrees at 
 North Texas State University (now the University of North Texas). A guitarist 

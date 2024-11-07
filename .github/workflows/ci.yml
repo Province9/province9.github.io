@@ -2,8 +2,6 @@ name: ci
 on:  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
 permissions:
   contents: write
 jobs:
@@ -21,7 +19,6 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: sudo apt install libcairo2
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
-env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}

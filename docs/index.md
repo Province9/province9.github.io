@@ -21,9 +21,8 @@ Welcome to the home page of Province 9 of the Phi Mu Alpha Sinfonia Fraternity.
 
     ---
 
-    Province Workshop will be held January 14 - 15, 2024 at Texas A&M University-Corpus Christi
+    Province Workshop will be held in April at the University of Texas in Austin
     
-    [:octicons-arrow-right-24: Purchase Your Ticket Today](https://www.eventbrite.com/e/phi-mu-alpha-sinfonia-province-9-workshop-who-we-are-tickets-738134499157)
 
 -   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
 
